@@ -10,7 +10,7 @@ I started by cleaning our data. In this section I have:
 Once I have cleaned up our data a bit, I moved to the data exploration section. In this section I have explored 4 high level business questions related to our data:
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
-- What time should we display advertisemens to maximize the likelihood of customerâ€™s buying product?
+- What time should we display advertisemens to maximize the likelihood of customer's buying product?
 - What product sold the most? Why do you think it sold the most?
 
 To answer these questions I went through many different pandas & matplotlib methods. Including:
